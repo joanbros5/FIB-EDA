@@ -6,4 +6,4 @@ Game2 - Moria, EDA game of 2021-2022 Q2, problem definition published in 21/04/2
 
 Jutge - A collection of some solutions for problems from Jutge.org.
 
-Test.cc - Some random program I don't remember why I wrote.
+Test.cc - Some random program I don't remember why I wrote or what it even does. Every good programmer has one of these.
